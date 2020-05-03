@@ -5,6 +5,7 @@
 An application to search through github users using github API.
 
 ### Tech stack
+
 - React.js (Hooks, ContextAPI, React routers)
 
 ### Installations
@@ -16,6 +17,6 @@ An application to search through github users using github API.
 
 - **Search User:** User can search for any github account and look for more details.
 
-![Avatar](./assets/home.PNG)
+![Avatar](./src/assets/home.PNG)
 
-![Avatar](./assets/detail.PNG)
+![Avatar](./src/assets/detail.PNG)
